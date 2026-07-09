@@ -145,7 +145,11 @@ CREATE TABLE zepto (
 MIT — feel free to fork, star, and use in your portfolio.
 
 ## 👨‍💻 About the Author
+Avi Aryan
 
+Aspiring Data Analyst | Python | SQL | Power BI | Data Analytics
+
+Feel free to connect and provide feedback on this project.
 
  ### 🚀 Stay Connected & Join the Data Drool Community
 If you enjoyed this project and want to keep learning and growing as a data analyst, let’s stay in touch! I regularly share content around SQL, data analytics, portfolio projects, job tips, and more.
