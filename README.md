@@ -94,8 +94,19 @@ CREATE TABLE zepto (
 - Identified and removed rows where MRP or discounted selling price was zero
 
 - Converted mrp and discountedSellingPrice from paise to rupees for consistency and readability
+
+### 5.📊 Dashboard Features
+- KPI Cards (Total Products, Categories, Average Discount, Average Selling Price)
+- Category-wise Product Distribution
+- Discount Distribution Analysis
+- Price vs Discount Scatter Plot
+- Stock Availability Analysis
+- Top 10 Discounted Products
+- Top 10 Most Expensive Products
+- Product Weight Distribution
+- Interactive Slicers (Category, Price, Stock Status)
   
-### 5. 📊 Business Insights
+### 6. 📊 Business Insights
 - Found top 10 best-value products based on discount percentage
 
 - Identified high-MRP products that are currently out of stock
